@@ -1,0 +1,9 @@
+{
+  "name": "mv-dep",
+  "version": "0.0.1",
+  "description": "Move files in front-end project and update dependence paths.",
+  "main": "index.js",
+  "repository": "https://github.com/CodingCommunism/mv-dep.git",
+  "author": "milkiq <milkiq@163.com>",
+  "license": "MIT"
+}

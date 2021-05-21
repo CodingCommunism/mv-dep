@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "rootDir": "src",
+    "declaration": true,
+    "declarationDir": "lib",
+    "typeRoots": ["./types", "./node_modules/@types"],
+    "strict": true,
+    "allowJs": true,
+    "target": "ES5"
+  },
+  "include": [
+    "./src/**/*"
+  ]
+}
